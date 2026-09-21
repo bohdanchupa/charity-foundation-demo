@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="uk">
+  <head>
+    <meta charset="utf-8" />
+    <title>Благодійний фонд</title>
+    <meta name="robots" content="noindex" />
+    <meta http-equiv="refresh" content="0; url=uk/" />
+    <link rel="canonical" href="uk/" />
+    <script>
+      // Send an English-speaking visitor to /en/ without waiting for the refresh.
+      (function () {
+        try {
+          var lang = (navigator.language || 'uk').toLowerCase();
+          var target = lang.indexOf('uk') === 0 || lang.indexOf('ru') === 0 ? 'uk/' : 'en/';
+          location.replace(target);
+        } catch (e) {
+          location.replace('uk/');
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <p>
+      <a href="uk/">Українською</a> · <a href="en/">In English</a>
+    </p>
+  </body>
+</html>

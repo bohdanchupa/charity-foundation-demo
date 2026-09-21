@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Благодійний фонд — Новини</title>
+    <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/</link>
+    <description>Новини фонду та історії людей, які проходять відновлення.</description>
+    <language>uk</language>
+    <item>
+      <title>Відкриття центру ментального здоров’я у Львові</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/center-opening/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/center-opening/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Плейсхолдер новини про відкриття простору.</description>
+    </item>
+    <item>
+      <title>Підсумки літнього сезону таборів</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/camp-season-results/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/camp-season-results/</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Плейсхолдер новини з підсумками сезону.</description>
+    </item>
+    <item>
+      <title>Історія відновлення: плейсхолдер</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/beneficiary-story/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/beneficiary-story/</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <description>Історія бенефіціара публікується лише з письмовою згодою.</description>
+    </item>
+  </channel>
+</rss>

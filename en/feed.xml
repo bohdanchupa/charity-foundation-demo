@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Charity Foundation — News</title>
+    <link>https://bohdanchupa.github.io/charity-foundation-demo/en/news/</link>
+    <description>Foundation news and the stories of people going through recovery.</description>
+    <language>en</language>
+    <item>
+      <title>Opening of the mental health centre in Lviv</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/en/news/center-opening/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/en/news/center-opening/</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
+      <description>Placeholder news item about the opening of the space.</description>
+    </item>
+    <item>
+      <title>Results of the summer camp season</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/en/news/camp-season-results/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/en/news/camp-season-results/</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <description>Placeholder news item with the season results.</description>
+    </item>
+    <item>
+      <title>A recovery story: placeholder</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/en/news/beneficiary-story/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/en/news/beneficiary-story/</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <description>A beneficiary story is published only with written consent.</description>
+    </item>
+  </channel>
+</rss>
