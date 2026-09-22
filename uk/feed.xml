@@ -6,60 +6,74 @@
     <description>Новини фонду та історії людей, які проходять відновлення.</description>
     <language>uk</language>
     <item>
-      <title>Підсумки літніх змін 2026: 214 дітей, 96 батьків, вісім змін у Карпатах</title>
-      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/camp-season-results/</link>
-      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/camp-season-results/</guid>
-      <pubDate>Sat, 05 Sep 2026 00:00:00 GMT</pubDate>
-      <description>Сезон реабілітаційних таборів завершено. Показники стану учасників, зібрані на вході й через шість тижнів після зміни, — у матеріалі.</description>
+      <title>Початок співпраці зі SGPP</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/sgpp/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/sgpp/</guid>
+      <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+      <description>Швейцарське товариство психіатрії та психотерапії фінансує 165 безкоштовних консультацій для українців.</description>
     </item>
     <item>
-      <title>«Я думала, що просто втомилася»: історія Наталі, опублікована за її згодою</title>
-      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/beneficiary-story/</link>
-      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/beneficiary-story/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-      <description>Учасниця програми розповідає про півтора року між переїздом і першим зверненням по допомогу. Ім'я змінено, текст погоджено з авторкою.</description>
+      <title>Ментальне здоров'я розмінувальників: підсумки співпраці з MAG</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/mag/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/mag/</guid>
+      <pubDate>Mon, 26 May 2025 00:00:00 GMT</pubDate>
+      <description>Партнерство з українським підрозділом Mines Advisory Group із лютого 2024 року. У травні команда MAG у Миколаєві пережила авіаудар.</description>
     </item>
     <item>
-      <title>Мобільна команда почала виїзди до прифронтових громад Харківщини</title>
-      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/mobile-team-kharkiv/</link>
-      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/mobile-team-kharkiv/</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Спільно з ГО «Джерело Надії» фонд запустив регулярні виїзди двох спеціалістів до восьми громад, де немає доступного психолога.</description>
+      <title>Від 4 до 87: портрети найстаршого та наймолодшого бенефіціарів</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/portraits/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/portraits/</guid>
+      <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+      <description>Наймолодшому клієнту платформи чотири роки, найстаршому — вісімдесят сім. Між ними вся війна.</description>
     </item>
     <item>
-      <title>Усі працівники та підрядники пройшли навчання з PSEA і захисту дітей</title>
-      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/psea-training/</link>
-      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/psea-training/</guid>
-      <pubDate>Fri, 20 Feb 2026 00:00:00 GMT</pubDate>
-      <description>Двадцять один працівник і дев'ятнадцять залучених підрядників пройшли обов'язкове навчання; політики PSEA та safeguarding оновлено.</description>
+      <title>Понад 2 000 українців отримають безкоштовну психологічну допомогу</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/german-doctors/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/german-doctors/</guid>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+      <description>Результат колаборації з German Doctors — до кінця року.</description>
     </item>
     <item>
-      <title>Ostbrücke Stiftung підтримала ветеранський напрям на два роки</title>
-      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/veterans-grant/</link>
-      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/veterans-grant/</guid>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
-      <description>Грант на 24 місяці дозволяє фонду вести групи взаємопідтримки для військових і їхніх родин у чотирьох містах і провести шість виїзних програм.</description>
+      <title>Психологічна підтримка літніх людей — подяка партнерам з Medair</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/medair/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/medair/</guid>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
+      <description>Напрям, який зазвичай лишається останнім у черзі уваги: люди похилого віку, що пережили війну.</description>
     </item>
     <item>
-      <title>10 жовтня: що ми розповідаємо на відкритих зустрічах і чому саме це</title>
-      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/mental-health-day/</link>
-      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/mental-health-day/</guid>
-      <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
-      <description>До Всесвітнього дня ментального здоров'я фонд провів сім відкритих зустрічей у громадах Львівської та Закарпатської областей.</description>
+      <title>EQ.app набирає популярність у Google Play</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/eq-google-play/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/eq-google-play/</guid>
+      <pubDate>Wed, 17 May 2023 00:00:00 GMT</pubDate>
+      <description>Сто тисяч завантажень на майданчику, рейтинг 4,4 і понад 1 200 відгуків.</description>
     </item>
     <item>
-      <title>Центр ментального здоров'я у Львові прийняв перших клієнтів</title>
-      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/center-opening/</link>
-      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/center-opening/</guid>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-      <description>18 березня фонд відкрив стаціонарний центр на вулиці Личаківській: чотири кабінети для індивідуальної роботи, групова кімната і дитячий простір.</description>
+      <title>Команда EQ.app на Web Summit</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/web-summit/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/web-summit/</guid>
+      <pubDate>Wed, 03 May 2023 00:00:00 GMT</pubDate>
+      <description>Участь у найбільшій технологічній конференції Європи як національний амбасадор України.</description>
     </item>
     <item>
-      <title>Онлайн-підтримка: перша лінія запрацювала для п'яти областей</title>
-      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/online-support-launch/</link>
-      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/online-support-launch/</guid>
-      <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
-      <description>Фонд запустив онлайн-консультації для громад, де немає жодного доступного психолога — спершу для п'яти областей, з чергою очікування до п'яти днів.</description>
+      <title>EQ.app у бізнес-інкубаторі VentureWell</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/venturewell/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/venturewell/</guid>
+      <pubDate>Thu, 16 Feb 2023 00:00:00 GMT</pubDate>
+      <description>Шестимісячна програма інкубації GIST у США.</description>
+    </item>
+    <item>
+      <title>Понад 1 000 консультацій від старту проєкту</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/1000-consultations/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/1000-consultations/</guid>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
+      <description>Перший рубіж платформи, з розкладкою: хто надавав допомогу, хто її отримував і яка частка — внутрішньо переміщені.</description>
+    </item>
+    <item>
+      <title>Проєкт «Герої» відновлює роботу</title>
+      <link>https://bohdanchupa.github.io/charity-foundation-demo/uk/news/heroes-restart/</link>
+      <guid isPermaLink="true">https://bohdanchupa.github.io/charity-foundation-demo/uk/news/heroes-restart/</guid>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 GMT</pubDate>
+      <description>Програма комплексної реабілітації демобілізованих воїнів повертається — з методикою, розробленою ще 2016 року.</description>
     </item>
   </channel>
 </rss>
