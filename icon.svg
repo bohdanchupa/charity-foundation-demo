@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Благодійний фонд">
+  <rect width="32" height="32" rx="8" fill="#155E75"/>
+  <circle cx="22" cy="11" r="3.5" fill="#22D3EE"/>
+  <path d="M3 25 L12 12.5 L17.5 20.5 L21 16 L29 25 Z" fill="#FFFFFF"/>
+</svg>
