@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" width="320" height="320" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="bg0" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#155e75"/>
+    </linearGradient>
+    <clipPath id="cl0"><circle cx="160" cy="160" r="160"/></clipPath>
+  </defs>
+  <g clip-path="url(#cl0)">
+    <rect width="320" height="320" fill="url(#bg0)"/>
+    <circle cx="26" cy="210" r="8" fill="#ffffff" opacity="0.10"/><circle cx="203" cy="74" r="5" fill="#ffffff" opacity="0.10"/><circle cx="91" cy="292" r="10" fill="#ffffff" opacity="0.10"/><circle cx="202" cy="84" r="6" fill="#ffffff" opacity="0.10"/><circle cx="75" cy="127" r="11" fill="#ffffff" opacity="0.10"/><circle cx="235" cy="211" r="13" fill="#ffffff" opacity="0.10"/><circle cx="77" cy="32" r="7" fill="#ffffff" opacity="0.10"/><circle cx="252" cy="20" r="4" fill="#ffffff" opacity="0.10"/><circle cx="106" cy="63" r="9" fill="#ffffff" opacity="0.10"/>
+    <path d="M40 320c0-58 54-92 120-92s120 34 120 92z" fill="#155e75" opacity="0.92"/>
+    <circle cx="160" cy="146" r="56" fill="#155e75" opacity="0.92"/>
+    <path d="M104 150c0-37 26-64 56-64s56 27 56 64c0-16-16-24-56-24s-56 8-56 24z" fill="#155e75"/>
+  </g>
+</svg>
